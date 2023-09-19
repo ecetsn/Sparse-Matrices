@@ -23,8 +23,10 @@ This project employs a 2D linked list data structure to represent sparse matrice
 
 The provided main.cpp file contains a sample program that demonstrates how to use the implemented functions to perform operations on sparse matrices.
 
+<br/>
+
 > [!NOTE]
-> This project was developed as a programming assignment and serves as an educational resource for working with sparse matrices and linked lists.
+> This project was developed as a programming assignment and serves as an educational resource for working.
 
 
 
